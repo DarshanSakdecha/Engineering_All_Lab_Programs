@@ -1,0 +1,15 @@
+.p{
+   background-color: red;
+   height: 120px;
+   width: 120px;
+   animation-name: hi;
+   animation-duration: 5s;
+
+}
+@keyframes hi {
+    from{
+         background-color: red;
+    }
+    to{
+         background-color: yellow;
+    }
